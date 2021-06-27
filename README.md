@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning: **Full Stack Development**
 
+- 🌱 I’m currently working as : **Guidewire Developer**
+
 - 🎓 𝙸 have graduated from **Institute of Technical Education & Research**, **SOA | SIKSHA 'O' ANUSANDHAN *(Deemed to be University)*** specializing in **Computer Science and Engineering in 2020**
 
 - 💬 Ask me about: **Java, Back-end technology**
