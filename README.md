@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=AshutoshMishra&style=flat-square)
 
 
-- 🔭 I’m currently working with: [Capgemini India](https://www.capgemini.com/in-en)
+- 🔭 I’m currently working with: [PwC India](https://www.pwc.in)
 
 - 🌱 I’m currently learning: **Full Stack Development**
 
